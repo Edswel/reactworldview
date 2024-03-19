@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -46,90 +34,6 @@
       "position": {
         "lat": "9.06260110302743",
         "lng": "7.489757537841798"
-      }
-    },
-    {
-      "id": "b1ac",
-      "cityName": "Gourma Rharous",
-      "country": "Mali",
-      "emoji": "🇲🇱",
-      "date": "2024-03-19T12:28:29.687Z",
-      "notes": "Now",
-      "position": {
-        "lat": "16.04581345375218",
-        "lng": "-2.4169921875000004"
-      }
-    },
-    {
-      "id": "add2",
-      "cityName": "mar da Palha",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2024-03-19T12:34:47.124Z",
-      "notes": "",
-      "position": {
-        "lat": "38.67170674848921",
-        "lng": "-9.103031158447267"
-      }
-    },
-    {
-      "id": "e089",
-      "cityName": "mar da Palha",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2024-03-19T12:34:47.124Z",
-      "notes": "",
-      "position": {
-        "lat": "38.67170674848921",
-        "lng": "-9.103031158447267"
-      }
-    },
-    {
-      "id": "229f",
-      "cityName": "Karu",
-      "country": "Nigeria",
-      "emoji": "🇳🇬",
-      "date": "2024-03-19T12:35:24.875Z",
-      "notes": "",
-      "position": {
-        "lat": "9.049208892083156",
-        "lng": "7.642364501953126"
-      }
-    },
-    {
-      "id": "81d8",
-      "cityName": "Karu",
-      "country": "Nigeria",
-      "emoji": "🇳🇬",
-      "date": "2024-03-19T12:35:24.875Z",
-      "notes": "",
-      "position": {
-        "lat": "9.049208892083156",
-        "lng": "7.642364501953126"
-      }
-    },
-    {
-      "id": "0554",
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-19T12:37:03.740Z",
-      "notes": "",
-      "position": {
-        "lat": "39.996191359399376",
-        "lng": "-0.006179809570312501"
-      }
-    },
-    {
-      "id": "c25b",
-      "cityName": "Minna",
-      "country": "Nigeria",
-      "emoji": "🇳🇬",
-      "date": "2024-03-19T12:39:22.761Z",
-      "notes": "See",
-      "position": {
-        "lat": "9.61090520371976",
-        "lng": "6.550598144531251"
       }
     }
   ]
